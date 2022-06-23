@@ -29,6 +29,7 @@ main:
 	jal choose_size
 	jal cria_vetores
 	jal start_game
+	j end
 	
 	
 choose_size:
